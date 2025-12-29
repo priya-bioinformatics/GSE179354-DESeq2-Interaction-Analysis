@@ -21,4 +21,4 @@ Statistical significance was assessed using FDR < 0.05.
 - Summary bar plot of up and downregulated genes
 
 ## Reproducibility
-R session information (R version and package versions) is provided in`Results/sessionInfo.docx`.
+R session information (R version and package versions) is provided in`Results/sessionInfo.txt`.
