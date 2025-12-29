@@ -18,7 +18,7 @@ Statistical significance was assessed using FDR < 0.05.
 ## Outputs
 - Differential expression results for all contrasts (`.csv`)
 - Interaction effect results for FP
-- Summary bar plot of up- and downregulated genes
+- Summary bar plot of up and downregulated genes
 
 ## Reproducibility
 R session information (R version and package versions) is provided in`results/sessionInfo.txt`.
